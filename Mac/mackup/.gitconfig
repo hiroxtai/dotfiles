@@ -1,8 +1,7 @@
-[user]
-	name = 
-	email = 
 [core]
 	excludesfile = $HOME/.gitignore_global
+	autocrlf = false
+	editor = vim
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
