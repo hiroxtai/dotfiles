@@ -4,4 +4,5 @@
     "java.home": "/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home",
     "java.jdt.ls.vmargs": "-noverify  -Dfile.encoding=utf8 -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication",
     "java.debug.settings.enableHotCodeReplace": true,
+    "workbench.iconTheme": "material-icon-theme",
 }
