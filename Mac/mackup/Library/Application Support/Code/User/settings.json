@@ -3,17 +3,6 @@
     "editor.fontSize": 16,
     // フォント ファミリを制御します。
     "editor.fontFamily": "'Ricty Discord'",
-    // 候補リストを表示するときに常に最初の候補を選択する。
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    // JDKへのパスを設定します。
-    "java.home": "/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home",
-    // Java起動時に使用されるVM引数を指定します。
-    "java.jdt.ls.vmargs": "-noverify  -Dfile.encoding=utf8 -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication",
-    // Javaコードのホットコード置換を有効にします。
-    "java.debug.settings.enableHotCodeReplace": true,
     // ワークベンチで使用するアイコンのテーマを指定します。
     "workbench.iconTheme": "material-icon-theme",
-    // Pythonの入力補完にJediを使用しません。
-    "python.jediEnabled": false,
 }
