@@ -1,5 +1,3 @@
-export PATH=/usr/local/bin:$PATH
-
 # Android SDK
 if [ -d $HOME/Library/Android/sdk ]
 then
