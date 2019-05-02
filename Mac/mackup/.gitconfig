@@ -1,7 +1,7 @@
-[includeIf "gitdir:~/Develop/GitHub/hiroxtai/"]
-  path = ~/Develop/GitHub/hiroxtai/.gitconfig
+[include]
+    path = ~/.gitconfig.local
 [core]
-	excludesfile = $HOME/.gitignore_global
+	excludesfile = ~/.gitignore_global
 	autocrlf = false
 	editor = vim
 [color]
