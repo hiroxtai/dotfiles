@@ -9,4 +9,6 @@
     "workbench.iconTheme": "material-icon-theme",
     // 拡張機能の推奨事項の通知を表示しません。
     "extensions.ignoreRecommendations": true,
+    // 自動的にファイルをエクスプローラーで選択しません。
+    "explorer.autoReveal": false,
 }
