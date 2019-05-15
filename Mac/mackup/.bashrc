@@ -9,6 +9,9 @@ fi
 if [ -f /usr/local/bin/anyenv ]
 then
     eval "$(anyenv init -)"
+    
+    # avoid brew warning
+    alias brew="env PATH=\"${PATH/$(anyenv root)\/envs\/*env\/shims:/}\" brew"
 fi
 
 # brew git completion
