@@ -11,4 +11,18 @@
     "extensions.ignoreRecommendations": true,
     // 自動的にファイルをエクスプローラーで選択しません。
     "explorer.autoReveal": false,
+    // ウィンドウのズームレベルを調整
+    "window.zoomLevel": -1,
+    // 拡張機能 (GitLens)
+    "gitlens.hovers.currentLine.over": "line",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.autofetch": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
 }

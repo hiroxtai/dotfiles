@@ -3,5 +3,13 @@
     {
         "key": "ctrl+shift+alt+j",
         "command": "workbench.files.action.showActiveFileInExplorer"
+    },
+    {
+        "key": "cmd+,",
+        "command": "-workbench.action.openSettings"
+    },
+    {
+        "key": "cmd+,",
+        "command": "workbench.action.openSettingsJson"
     }
 ]
